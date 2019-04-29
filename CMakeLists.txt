@@ -4,4 +4,4 @@ project(cpptest)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(cpptest
-        thread/threadtest.cpp)
+        basic/Circle.cpp basic/Circle.h)
