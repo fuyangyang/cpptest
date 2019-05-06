@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cpptest.dir/basic/thread/threadtest1.cpp.o  -o cpptest -pthread 

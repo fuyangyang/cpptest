@@ -1,0 +1,9 @@
+syntax = "proto3";
+package pt;
+//option optimize_for = LITE_RUNTIME;
+
+message req_login
+{
+     string username = 1;
+     string password = 2;
+}
