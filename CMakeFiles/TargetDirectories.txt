@@ -1,3 +1,0 @@
-/home/fuyangyang/cpptest/CMakeFiles/rebuild_cache.dir
-/home/fuyangyang/cpptest/CMakeFiles/cpptest.dir
-/home/fuyangyang/cpptest/CMakeFiles/edit_cache.dir
